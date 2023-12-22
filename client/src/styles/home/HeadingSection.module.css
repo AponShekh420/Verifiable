@@ -1,0 +1,44 @@
+.sectionBox {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title {
+  font-size: 48px;
+  line-height: 67.2px;
+  font-weight: 700;
+  color: #1e293b;
+}
+
+.detailsText {
+  text-align: center;
+  font-size: 19px;
+  font-weight: 700;
+  color: #7a7a7a;
+  line-height: 27px;
+  max-width: 1120px;
+}
+
+.btnBox {
+  display: flex;
+  column-gap: 5px;
+}
+
+.paymentButton {
+  column-gap: 5px;
+  display: flex;
+  align-items: center;
+  width: 140px;
+  font-size: 10px;
+  line-height: 13.6px;
+  font-weight: 400;
+  border-radius: 30px;
+}
+
+.paymentText {
+  color: #334155;
+  text-align: left;
+}

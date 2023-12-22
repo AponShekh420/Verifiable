@@ -1,0 +1,6 @@
+.container {
+  margin: 20px auto;
+  /* background: hsl(0, 17%, 94%); */
+  max-width: 1240px;
+  width: 96%;
+}
